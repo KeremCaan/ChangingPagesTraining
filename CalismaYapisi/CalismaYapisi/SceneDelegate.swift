@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  odev4
+//  CalismaYapisi
 //
-//  Created by MacbookPro on 8.08.2022.
+//  Created by MacbookPro on 4.08.2022.
 //
 
 import UIKit

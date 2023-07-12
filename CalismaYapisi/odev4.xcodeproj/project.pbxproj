@@ -7,27 +7,35 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		522BDF9428A1657900F0D043 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522BDF9328A1657900F0D043 /* AppDelegate.swift */; };
-		522BDF9628A1657900F0D043 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522BDF9528A1657900F0D043 /* SceneDelegate.swift */; };
-		522BDF9828A1657900F0D043 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522BDF9728A1657900F0D043 /* ViewController.swift */; };
-		522BDF9B28A1657900F0D043 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 522BDF9928A1657900F0D043 /* Main.storyboard */; };
-		522BDF9D28A1657A00F0D043 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 522BDF9C28A1657A00F0D043 /* Assets.xcassets */; };
-		522BDFA028A1657A00F0D043 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 522BDF9E28A1657A00F0D043 /* LaunchScreen.storyboard */; };
+		522BDFB028A1713E00F0D043 /* SayfaA.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522BDFAF28A1713E00F0D043 /* SayfaA.swift */; };
+		522BDFB428A17E6000F0D043 /* SayfaB.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522BDFB328A17E6000F0D043 /* SayfaB.swift */; };
+		52DB6369289C429200FB8D7E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52DB6368289C429200FB8D7E /* AppDelegate.swift */; };
+		52DB636B289C429200FB8D7E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52DB636A289C429200FB8D7E /* SceneDelegate.swift */; };
+		52DB636D289C429200FB8D7E /* AnasayfaVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52DB636C289C429200FB8D7E /* AnasayfaVC.swift */; };
+		52DB6370289C429200FB8D7E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52DB636E289C429200FB8D7E /* Main.storyboard */; };
+		52DB6372289C429300FB8D7E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52DB6371289C429300FB8D7E /* Assets.xcassets */; };
+		52DB6375289C429300FB8D7E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52DB6373289C429300FB8D7E /* LaunchScreen.storyboard */; };
+		52DB637D289C442100FB8D7E /* SayfaX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52DB637C289C442100FB8D7E /* SayfaX.swift */; };
+		52DB637F289C444100FB8D7E /* SayfaY.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52DB637E289C444100FB8D7E /* SayfaY.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		522BDF9028A1657900F0D043 /* odev4.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = odev4.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		522BDF9328A1657900F0D043 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		522BDF9528A1657900F0D043 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		522BDF9728A1657900F0D043 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		522BDF9A28A1657900F0D043 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		522BDF9C28A1657A00F0D043 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		522BDF9F28A1657A00F0D043 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		522BDFA128A1657A00F0D043 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		522BDFAF28A1713E00F0D043 /* SayfaA.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SayfaA.swift; sourceTree = "<group>"; };
+		522BDFB328A17E6000F0D043 /* SayfaB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SayfaB.swift; sourceTree = "<group>"; };
+		52DB6365289C429200FB8D7E /* odev4.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = odev4.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		52DB6368289C429200FB8D7E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		52DB636A289C429200FB8D7E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		52DB636C289C429200FB8D7E /* AnasayfaVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnasayfaVC.swift; sourceTree = "<group>"; };
+		52DB636F289C429200FB8D7E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		52DB6371289C429300FB8D7E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		52DB6374289C429300FB8D7E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		52DB6376289C429300FB8D7E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		52DB637C289C442100FB8D7E /* SayfaX.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SayfaX.swift; sourceTree = "<group>"; };
+		52DB637E289C444100FB8D7E /* SayfaY.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SayfaY.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		522BDF8D28A1657900F0D043 /* Frameworks */ = {
+		52DB6362289C429200FB8D7E /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,72 +45,76 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		522BDF8728A1657900F0D043 = {
+		52DB635C289C429200FB8D7E = {
 			isa = PBXGroup;
 			children = (
-				522BDF9228A1657900F0D043 /* odev4 */,
-				522BDF9128A1657900F0D043 /* Products */,
+				52DB6367289C429200FB8D7E /* CalismaYapisi */,
+				52DB6366289C429200FB8D7E /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		522BDF9128A1657900F0D043 /* Products */ = {
+		52DB6366289C429200FB8D7E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				522BDF9028A1657900F0D043 /* odev4.app */,
+				52DB6365289C429200FB8D7E /* odev4.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		522BDF9228A1657900F0D043 /* odev4 */ = {
+		52DB6367289C429200FB8D7E /* CalismaYapisi */ = {
 			isa = PBXGroup;
 			children = (
-				522BDF9328A1657900F0D043 /* AppDelegate.swift */,
-				522BDF9528A1657900F0D043 /* SceneDelegate.swift */,
-				522BDF9728A1657900F0D043 /* ViewController.swift */,
-				522BDF9928A1657900F0D043 /* Main.storyboard */,
-				522BDF9C28A1657A00F0D043 /* Assets.xcassets */,
-				522BDF9E28A1657A00F0D043 /* LaunchScreen.storyboard */,
-				522BDFA128A1657A00F0D043 /* Info.plist */,
+				52DB6368289C429200FB8D7E /* AppDelegate.swift */,
+				52DB636A289C429200FB8D7E /* SceneDelegate.swift */,
+				52DB636C289C429200FB8D7E /* AnasayfaVC.swift */,
+				522BDFAF28A1713E00F0D043 /* SayfaA.swift */,
+				522BDFB328A17E6000F0D043 /* SayfaB.swift */,
+				52DB637C289C442100FB8D7E /* SayfaX.swift */,
+				52DB637E289C444100FB8D7E /* SayfaY.swift */,
+				52DB636E289C429200FB8D7E /* Main.storyboard */,
+				52DB6371289C429300FB8D7E /* Assets.xcassets */,
+				52DB6373289C429300FB8D7E /* LaunchScreen.storyboard */,
+				52DB6376289C429300FB8D7E /* Info.plist */,
 			);
-			path = odev4;
+			path = CalismaYapisi;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		522BDF8F28A1657900F0D043 /* odev4 */ = {
+		52DB6364289C429200FB8D7E /* odev4 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 522BDFA428A1657A00F0D043 /* Build configuration list for PBXNativeTarget "odev4" */;
+			buildConfigurationList = 52DB6379289C429300FB8D7E /* Build configuration list for PBXNativeTarget "odev4" */;
 			buildPhases = (
-				522BDF8C28A1657900F0D043 /* Sources */,
-				522BDF8D28A1657900F0D043 /* Frameworks */,
-				522BDF8E28A1657900F0D043 /* Resources */,
+				52DB6361289C429200FB8D7E /* Sources */,
+				52DB6362289C429200FB8D7E /* Frameworks */,
+				52DB6363289C429200FB8D7E /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			name = odev4;
-			productName = odev4;
-			productReference = 522BDF9028A1657900F0D043 /* odev4.app */;
+			productName = CalismaYapisi;
+			productReference = 52DB6365289C429200FB8D7E /* odev4.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		522BDF8828A1657900F0D043 /* Project object */ = {
+		52DB635D289C429200FB8D7E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1340;
 				LastUpgradeCheck = 1340;
 				TargetAttributes = {
-					522BDF8F28A1657900F0D043 = {
+					52DB6364289C429200FB8D7E = {
 						CreatedOnToolsVersion = 13.4.1;
 					};
 				};
 			};
-			buildConfigurationList = 522BDF8B28A1657900F0D043 /* Build configuration list for PBXProject "odev4" */;
+			buildConfigurationList = 52DB6360289C429200FB8D7E /* Build configuration list for PBXProject "odev4" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,55 +122,59 @@
 				en,
 				Base,
 			);
-			mainGroup = 522BDF8728A1657900F0D043;
-			productRefGroup = 522BDF9128A1657900F0D043 /* Products */;
+			mainGroup = 52DB635C289C429200FB8D7E;
+			productRefGroup = 52DB6366289C429200FB8D7E /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				522BDF8F28A1657900F0D043 /* odev4 */,
+				52DB6364289C429200FB8D7E /* odev4 */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		522BDF8E28A1657900F0D043 /* Resources */ = {
+		52DB6363289C429200FB8D7E /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				522BDFA028A1657A00F0D043 /* LaunchScreen.storyboard in Resources */,
-				522BDF9D28A1657A00F0D043 /* Assets.xcassets in Resources */,
-				522BDF9B28A1657900F0D043 /* Main.storyboard in Resources */,
+				52DB6375289C429300FB8D7E /* LaunchScreen.storyboard in Resources */,
+				52DB6372289C429300FB8D7E /* Assets.xcassets in Resources */,
+				52DB6370289C429200FB8D7E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		522BDF8C28A1657900F0D043 /* Sources */ = {
+		52DB6361289C429200FB8D7E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				522BDF9828A1657900F0D043 /* ViewController.swift in Sources */,
-				522BDF9428A1657900F0D043 /* AppDelegate.swift in Sources */,
-				522BDF9628A1657900F0D043 /* SceneDelegate.swift in Sources */,
+				52DB637F289C444100FB8D7E /* SayfaY.swift in Sources */,
+				52DB636D289C429200FB8D7E /* AnasayfaVC.swift in Sources */,
+				52DB6369289C429200FB8D7E /* AppDelegate.swift in Sources */,
+				52DB636B289C429200FB8D7E /* SceneDelegate.swift in Sources */,
+				522BDFB428A17E6000F0D043 /* SayfaB.swift in Sources */,
+				522BDFB028A1713E00F0D043 /* SayfaA.swift in Sources */,
+				52DB637D289C442100FB8D7E /* SayfaX.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		522BDF9928A1657900F0D043 /* Main.storyboard */ = {
+		52DB636E289C429200FB8D7E /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				522BDF9A28A1657900F0D043 /* Base */,
+				52DB636F289C429200FB8D7E /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		522BDF9E28A1657A00F0D043 /* LaunchScreen.storyboard */ = {
+		52DB6373289C429300FB8D7E /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				522BDF9F28A1657A00F0D043 /* Base */,
+				52DB6374289C429300FB8D7E /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -166,7 +182,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		522BDFA228A1657A00F0D043 /* Debug */ = {
+		52DB6377289C429300FB8D7E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -226,7 +242,7 @@
 			};
 			name = Debug;
 		};
-		522BDFA328A1657A00F0D043 /* Release */ = {
+		52DB6378289C429300FB8D7E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -280,7 +296,7 @@
 			};
 			name = Release;
 		};
-		522BDFA528A1657A00F0D043 /* Debug */ = {
+		52DB637A289C429300FB8D7E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -288,7 +304,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = odev4/Info.plist;
+				INFOPLIST_FILE = CalismaYapisi/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -299,7 +315,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.info.odev4;
+				PRODUCT_BUNDLE_IDENTIFIER = com.info.CalismaYapisi;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -307,7 +323,7 @@
 			};
 			name = Debug;
 		};
-		522BDFA628A1657A00F0D043 /* Release */ = {
+		52DB637B289C429300FB8D7E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -315,7 +331,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = odev4/Info.plist;
+				INFOPLIST_FILE = CalismaYapisi/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -326,7 +342,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.info.odev4;
+				PRODUCT_BUNDLE_IDENTIFIER = com.info.CalismaYapisi;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -337,25 +353,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		522BDF8B28A1657900F0D043 /* Build configuration list for PBXProject "odev4" */ = {
+		52DB6360289C429200FB8D7E /* Build configuration list for PBXProject "odev4" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				522BDFA228A1657A00F0D043 /* Debug */,
-				522BDFA328A1657A00F0D043 /* Release */,
+				52DB6377289C429300FB8D7E /* Debug */,
+				52DB6378289C429300FB8D7E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		522BDFA428A1657A00F0D043 /* Build configuration list for PBXNativeTarget "odev4" */ = {
+		52DB6379289C429300FB8D7E /* Build configuration list for PBXNativeTarget "odev4" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				522BDFA528A1657A00F0D043 /* Debug */,
-				522BDFA628A1657A00F0D043 /* Release */,
+				52DB637A289C429300FB8D7E /* Debug */,
+				52DB637B289C429300FB8D7E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 522BDF8828A1657900F0D043 /* Project object */;
+	rootObject = 52DB635D289C429200FB8D7E /* Project object */;
 }
